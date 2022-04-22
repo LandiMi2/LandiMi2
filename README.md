@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Michael Kofia
 
-I'm bioinformatics student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya Intiative (BHKI). Certified Software Carpentries instructor, an Open Life Science (OLS) graduate and a mentor. I'm passionate about capacity building.  
+I'm bioinformatics student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya Intiative [!BHKi](https://github.com/bioinformatics-hub-ke). Certified Software Carpentries instructor, an Open Life Science (OLS) graduate and a mentor. I'm passionate about capacity building.  
 
 - 🔭 I’m currently working on epigenetics 
 - 🌱 I’m currently learning how to build websites using gitpages
