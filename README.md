@@ -2,10 +2,10 @@
 
 I'm a bioinformatics student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya Intiative [BHKi](https://github.com/bioinformatics-hub-ke). A certified Software Carpentries instructor. I'm passionate about capacity building.  
 
-- 🔭 I’m currently working on epigenetics 
+- 🔭 I’m currently working on epigenetics in plants 
 - 🌱 I’m currently learning how to build websites using gitpages
 -  Hobbies: Triathlon
-- 📫 How to reach me: [Twitter](https://twitter.com/CofiaLandy) or Email: m.landi@cgiar.org /landycofia@gmail.com 
+- 📫 How to reach me: [Twitter](https://twitter.com/CofiaLandy) or Email: m.landi@cgiar.org / landycofia@gmail.com 
 - 😄 Pronouns: He/Him
 
 <!--
