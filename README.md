@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Michael Kofia
+
+I'm bioinformatics student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya Intiative (BHKI). Certified Software Carpentries instructor, an Open Life Science (OLS) graduate and a mentor. I'm passionate about capacity building.  
+
+- 🔭 I’m currently working on epigenetics 
+- 🌱 I’m currently learning how to build websites using gitpages
+-  Hobbies: Triathlon
+
 
 <!--
 **LandiMi2/LandiMi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
