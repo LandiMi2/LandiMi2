@@ -2,7 +2,7 @@
 
 **Genomics | Epigenetics | Bioinformatics**
 
-Hi there 👋 I'm a bioinformatics researcher with a strong background in genomics and epigenetics. I completed my PhD in Bioinformatics at the Swedish University of Agricultural Sciences (SLU), where my research focused on identifying epigenetic variations that influence virus resistance in cassava.
+Hi there 👋 I'm a bioinformatics researcher with a strong background in genomics and epigenetics. I completed my PhD in Bioinformatics at the Swedish University of Agricultural Sciences (SLU), where my research focused on identifying epigenetic variations that influence viral resistance in cassava.
 
 #### 🔬 Research Interests:
 
