@@ -1,24 +1,29 @@
-### Hi there 👋 I'm Michael Kofia
+### Michael Landi  
 
-I'm a bioinformatics student with a keen interest in epigenetics and genomics. A co-founder of Bioinformatics Hub of Kenya Intiative [BHKi](https://github.com/bioinformatics-hub-ke). A certified Software Carpentries instructor. I'm passionate about capacity building.  
+**Genomics | Epigenetics | Bioinformatics**
 
-- 🔭 I’m currently working on epigenetics in plants 
-- 🌱 I’m currently learning how to build websites using gitpages
--  Hobbies: Triathlon
-- 📫 How to reach me: [Twitter](https://twitter.com/CofiaLandy) or Email: m.landi@cgiar.org / landycofia@gmail.com 
-- 😄 Pronouns: He/Him
+Hi there 👋 I'm a bioinformatics researcher with a strong background in genomics and epigenetics. I completed my PhD in Bioinformatics at the Swedish University of Agricultural Sciences (SLU), where my research focused on identifying epigenetic variations that influence virus resistance in cassava.
 
-<!--
-**LandiMi2/LandiMi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔬 Research Interests:
 
-Here are some ideas to get you started:
+- Genome assembly and annotation
+- Comparative genomics
+- DNA methylation analysis
+- Transcriptomics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Technical Skills:
+
+- Programming Languages: R and Bash
+- Genome assembly and annotation (PacBio - HiFi and OmniC reads)
+- Whole genome alignment and variant calling
+- B-cell receptor repertoire sequence analysis 
+- Workflow management (Snakemake)
+
+
+📫 Get in Touch
+
+-  Email: landycofia@gmail.com / michael.landi@slu.se
+-  [LinkedIn](https://www.linkedin.com/in/michael-landi-490b33113/)
+-  [ORCID](https://orcid.org/0000-0001-5597-7802)
+
+
