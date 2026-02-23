@@ -2,7 +2,7 @@
 
 **Genomics | Epigenetics | Bioinformatics**
 
-Hi there 👋 I'm a bioinformatics researcher with a strong background in genomics and epigenetics. 
+Hi there :wave: I'm a bioinformatics researcher with a strong background in genomics and epigenetics. 
 
 ---
 
